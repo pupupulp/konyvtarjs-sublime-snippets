@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Kony.component.reference('${1:componentType}', '${2:referenceValue}`);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>kcr</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+	<description>KonyvtarJS Component Reference</description>
+</snippet>
