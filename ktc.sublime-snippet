@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.task.create(${1:callback});
+]]></content>
+	<tabTrigger>ktc</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Task Create</description>
+</snippet>

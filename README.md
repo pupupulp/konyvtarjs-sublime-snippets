@@ -86,6 +86,10 @@ A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/ko
 
 + **kuc** - ```Kony.url.convertObjectToQuery(params);```
 
+### Task
+
++ **ktc** - ```Kony.task.create(callback);```
+
 ## About
 
 ### Contributing
