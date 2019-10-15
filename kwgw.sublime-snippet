@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.window.getWidth();
+]]></content>
+	<tabTrigger>kwgw</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Window Get Width</description>
+</snippet>

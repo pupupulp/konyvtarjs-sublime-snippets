@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.window.getHeight();
+]]></content>
+	<tabTrigger>kwgh</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Window Get Height</description>
+</snippet>

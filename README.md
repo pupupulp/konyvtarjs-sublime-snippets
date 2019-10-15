@@ -90,6 +90,11 @@ A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/ko
 
 + **ktc** - ```Kony.task.create(callback);```
 
+### Window
+
++ **kwgh** - ```Kony.window.getHeight();```
++ **kwgw** - ```Kony.window.getWidth();```
+
 ## About
 
 ### Contributing
