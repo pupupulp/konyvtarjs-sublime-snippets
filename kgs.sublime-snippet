@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.grid.setup('${1:reference}', '${2:storeUrl}', ${3:filters});
+]]></content>
+	<tabTrigger>kgs</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Grid Setup</description>
+</snippet>

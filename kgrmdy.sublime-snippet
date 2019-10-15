@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.grid.render.mdyDate();
+]]></content>
+	<tabTrigger>kgrmdy</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Grid Render MM/DD/YYYY Date</description>
+</snippet>

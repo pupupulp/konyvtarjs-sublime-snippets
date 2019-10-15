@@ -31,6 +31,31 @@ A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/ko
 + **kst** - ```Kony.store.tree(url, extraParams, component, autoLoad, folderSort);```
 + **ksl** - ```Kony.store.local(records);```
 
+### Grid
+
++ **kgg** - ```Kony.grid.get(reference);```
++ **kgs** - ```Kony.grid.setup(reference, storeUrl, filters);```
++ **kgc** - ```Kony.grid.clear(reference);```
++ **kggs** - ```Kony.grid.getSelection(reference);```
++ **kgcs** - ```Kony.grid.clearSelection(reference);```
++ **kggst** - ```Kony.grid.getStore(reference);```
++ **kgr** - ```Kony.grid.reload(reference);```
+
+    #### Render
+
+    + **kgrd** - ```Kony.grid.render.default();```
+    + **kgrqt** - ```Kony.grid.render.qTip();```
+    + **kgrcc** - ```Kony.grid.render.checkColumn();```
+    + **kgryn** - ```Kony.grid.render.yesNo();```
+    + **kgrc** - ```Kony.grid.render.currency();```
+    + **kgra** - ```Kony.grid.render.accurate();```
+    + **kgrfd** - ```Kony.grid.render.fullDate();```
+    + **kgrymd** - ```Kony.grid.render.ymdDate();```
+    + **kgrdmy** - ```Kony.grid.render.dmyDate();```
+    + **kgrmdy** - ```Kony.grid.render.mdyDate();```
+
+
+
 ## About
 
 ### Contributing

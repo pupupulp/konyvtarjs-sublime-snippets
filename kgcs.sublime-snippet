@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.grid.clearSelection('${1:reference}');
+]]></content>
+	<tabTrigger>kgcs</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Grid Clear Selection</description>
+</snippet>

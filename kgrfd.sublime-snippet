@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.grid.render.fullDate();
+]]></content>
+	<tabTrigger>kgrfd</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Grid Render Full Date</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.grid.render.yesNo();
+]]></content>
+	<tabTrigger>kgryn</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Grid Render Yes/No</description>
+</snippet>

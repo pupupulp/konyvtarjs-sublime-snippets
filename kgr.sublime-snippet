@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.grid.reload('${1:reference}');
+]]></content>
+	<tabTrigger>kgr</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Grid Reload</description>
+</snippet>

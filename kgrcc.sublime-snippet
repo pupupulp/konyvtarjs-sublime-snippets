@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.grid.render.checkColumn();
+]]></content>
+	<tabTrigger>kgrcc</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Grid Render Check Column</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.grid.getSelection('${1:reference}');
+]]></content>
+	<tabTrigger>kggs</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Grid Get Selection</description>
+</snippet>

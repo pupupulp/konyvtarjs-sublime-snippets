@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.grid.getStore('${1:reference}');
+]]></content>
+	<tabTrigger>kggst</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Grid Get Store</description>
+</snippet>
