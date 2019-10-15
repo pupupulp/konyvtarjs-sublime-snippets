@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.button.get('${1:reference}');
+]]></content>
+	<tabTrigger>kbg</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Button Get</description>
+</snippet>

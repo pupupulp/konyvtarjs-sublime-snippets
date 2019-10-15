@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.button.disable('${1:reference}');
+]]></content>
+	<tabTrigger>kbd</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Button Disable</description>
+</snippet>

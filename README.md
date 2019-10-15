@@ -70,6 +70,12 @@ A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/ko
 + **kfiv** - ```Kony.form.isValid(reference);```
 + **kfgif** - ```Kony.form.getInvalidFields(reference);```
 
+### Button 
+
++ **kbg** - ```Kony.button.get(reference);```
++ **kbd** - ```Kony.button.disable(reference);```
++ **kbe** - ```Kony.button.enable(reference);```
+
 ## About
 
 ### Contributing

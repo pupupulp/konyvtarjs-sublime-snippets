@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.button.enable('${1:reference}');
+]]></content>
+	<tabTrigger>kbe</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Button Enable</description>
+</snippet>
