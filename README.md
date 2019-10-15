@@ -12,11 +12,11 @@ A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/ko
 - [Combobox](#combobox)
 - [Form](#form)
 - [Button](#button)
-- [Render](#render)
 - [Ajax](#ajax)
 - [Url](#url)
 - [Task](#task)
 - [Window](#window)
+- [Message](#message)
 
 ### Features
 
