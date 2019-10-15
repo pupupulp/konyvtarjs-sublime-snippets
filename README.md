@@ -41,18 +41,18 @@ A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/ko
 + **kggst** - ```Kony.grid.getStore(reference);```
 + **kgr** - ```Kony.grid.reload(reference);```
 
-    #### Render
+#### Render
 
-    + **kgrd** - ```Kony.grid.render.default();```
-    + **kgrqt** - ```Kony.grid.render.qTip();```
-    + **kgrcc** - ```Kony.grid.render.checkColumn();```
-    + **kgryn** - ```Kony.grid.render.yesNo();```
-    + **kgrc** - ```Kony.grid.render.currency();```
-    + **kgra** - ```Kony.grid.render.accurate();```
-    + **kgrfd** - ```Kony.grid.render.fullDate();```
-    + **kgrymd** - ```Kony.grid.render.ymdDate();```
-    + **kgrdmy** - ```Kony.grid.render.dmyDate();```
-    + **kgrmdy** - ```Kony.grid.render.mdyDate();```
++ **kgrd** - ```Kony.grid.render.default();```
++ **kgrqt** - ```Kony.grid.render.qTip();```
++ **kgrcc** - ```Kony.grid.render.checkColumn();```
++ **kgryn** - ```Kony.grid.render.yesNo();```
++ **kgrc** - ```Kony.grid.render.currency();```
++ **kgra** - ```Kony.grid.render.accurate();```
++ **kgrfd** - ```Kony.grid.render.fullDate();```
++ **kgrymd** - ```Kony.grid.render.ymdDate();```
++ **kgrdmy** - ```Kony.grid.render.dmyDate();```
++ **kgrmdy** - ```Kony.grid.render.mdyDate();```
 
 ### Combobox 
 
@@ -75,6 +75,12 @@ A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/ko
 + **kbg** - ```Kony.button.get(reference);```
 + **kbd** - ```Kony.button.disable(reference);```
 + **kbe** - ```Kony.button.enable(reference);```
+
+### Ajax 
+
+#### Request
+
++ **kar** - ```Kony.ajax.request(url, method, params, sucessCallback, failureCallback, async);```
 
 ## About
 

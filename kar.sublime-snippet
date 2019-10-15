@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.ajax.request('${1:url}', '${2:method}', ${3:params}, ${4:successCallback}, ${5:failureCallback}, ${6:async});
+]]></content>
+	<tabTrigger>kar</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Ajax Request</description>
+</snippet>
