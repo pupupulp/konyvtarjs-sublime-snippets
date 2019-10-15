@@ -82,6 +82,10 @@ A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/ko
 
 + **kar** - ```Kony.ajax.request(url, method, params, sucessCallback, failureCallback, async);```
 
+### URL
+
++ **kuc** - ```Kony.url.convertObjectToQuery(params);```
+
 ## About
 
 ### Contributing

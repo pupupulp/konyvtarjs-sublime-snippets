@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.url.convertObjectToQuery(${1:params});
+]]></content>
+	<tabTrigger>kuc</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS URL Convert Object To Query</description>
+</snippet>
