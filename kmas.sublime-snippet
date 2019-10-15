@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.message.ask('${1:message}', ${2:callback});
+]]></content>
+	<tabTrigger>kmas</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Message Ask</description>
+</snippet>

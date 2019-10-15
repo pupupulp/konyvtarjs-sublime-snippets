@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.message.custom('${1:title}', '${2:message}', ${3:buttonType}, ${4:iconType}, ${5:callback});
+]]></content>
+	<tabTrigger>kmcs</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Message Custom</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.message.error('${1:message}');
+]]></content>
+	<tabTrigger>kme</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Message Error</description>
+</snippet>

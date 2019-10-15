@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.message.confirm('${1:message}', ${2:callback});
+]]></content>
+	<tabTrigger>kmc</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Message Confirm</description>
+</snippet>

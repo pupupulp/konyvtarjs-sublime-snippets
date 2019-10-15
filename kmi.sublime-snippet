@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.message.info('${1:message}');
+]]></content>
+	<tabTrigger>kmi</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Message Info</description>
+</snippet>

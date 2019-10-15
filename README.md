@@ -95,6 +95,16 @@ A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/ko
 + **kwgh** - ```Kony.window.getHeight();```
 + **kwgw** - ```Kony.window.getWidth();```
 
+### Message
+
++ **kmcs** - ```Kony.message.custom(title, message, btn, icon, callback);```
++ **kma** - ```Kony.message.alert(message);```
++ **kmc** - ```Kony.message.confirm(message, callback);```
++ **kme** - ```Kony.message.error(message);```
++ **kmi** - ```Kony.message.info(message);```
++ **kmas** - ```Kony.message.ask(message, callback);```
++ **kmw** - ```Kony.message.warn(message);```
+
 ## About
 
 ### Contributing
