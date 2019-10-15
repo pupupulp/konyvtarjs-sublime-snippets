@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.combobox.setup('${1:reference}', '${2:storeUrl}', ${3:filters});
+]]></content>
+	<tabTrigger>kcs</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Combobox Setup</description>
+</snippet>

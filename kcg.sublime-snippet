@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.combobox.get('${1:reference}');
+]]></content>
+	<tabTrigger>kcg</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Combobox Get</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.combobox.getRecordById('${1:reference}', ${2:id});
+]]></content>
+	<tabTrigger>kcgrid</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Combobox Get Record By Id</description>
+</snippet>

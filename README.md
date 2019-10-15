@@ -54,7 +54,11 @@ A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/ko
     + **kgrdmy** - ```Kony.grid.render.dmyDate();```
     + **kgrmdy** - ```Kony.grid.render.mdyDate();```
 
+### Combobox 
 
++ **kcg** - ```Kony.combobox.get(reference);```
++ **kcs** - ```Kony.combobox.setup(reference, storeUrl, filters);```
++ **kcgrid** - ```Kony.combobox.getRecordById(reference, id);```
 
 ## About
 
