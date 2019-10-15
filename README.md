@@ -2,11 +2,34 @@
 
 A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/konyvtar-js
 
-## Contents
+## Documentation
 
-**kcq** - ```Kony.component.query()```
+### Table of Contents
 
-**kcr** - ```Kony.component.reference()```
+- [Component](#component)
+- [Store](#store)
+- [Grid](#grid)
+- [Combobox](#combobox)
+- [Form](#form)
+- [Button](#button)
+- [Render](#render)
+- [Ajax](#ajax)
+- [Url](#url)
+- [Task](#task)
+- [Window](#window)
+
+### Features
+
+#### Component
+
++ **kcq** - ```Kony.component.query(queryString);```
++ **kcr** - ```Kony.component.reference(component, reference);```
+
+#### Store
+
++ **ksc** - ```Kony.store.create(url, extraParams, component, autoLoad, pageSize);```
++ **kst** - ```Kony.store.tree(url, extraParams, component, autoLoad, folderSort);```
++ **ksl** - ```Kony.store.local(records);```
 
 ## About
 

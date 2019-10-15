@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.store.local(${1:records});
+]]></content>
+	<tabTrigger>ksl</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Store Local</description>
+</snippet>
