@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.form.getValues('${1:reference}');
+]]></content>
+	<tabTrigger>kfgv</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Form Get Values</description>
+</snippet>

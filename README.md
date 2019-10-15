@@ -60,6 +60,16 @@ A sublime snippet for KonyvtarJS package on NPM https://www.npmjs.com/package/ko
 + **kcs** - ```Kony.combobox.setup(reference, storeUrl, filters);```
 + **kcgrid** - ```Kony.combobox.getRecordById(reference, id);```
 
+### Form 
+
++ **kfg** - ```Kony.form.get(reference);```
++ **kfgv** - ```Kony.form.getValues(reference);```
++ **kflr** - ```Kony.form.loadRecord(reference, record);```
++ **kfsro** - ```Kony.form.setReadOnly(reference, isReadOnly);```
++ **kfc** - ```Kony.form.clear(reference);```
++ **kfiv** - ```Kony.form.isValid(reference);```
++ **kfgif** - ```Kony.form.getInvalidFields(reference);```
+
 ## About
 
 ### Contributing

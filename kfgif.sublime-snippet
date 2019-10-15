@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.form.getInvalidFields('${1:reference}');
+]]></content>
+	<tabTrigger>kfgif</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Form Get Invalid Fields</description>
+</snippet>

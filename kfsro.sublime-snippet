@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.form.setReadOnly('${1:reference}', ${2:isReadOnly});
+]]></content>
+	<tabTrigger>kfsro</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Form Set Read Only</description>
+</snippet>

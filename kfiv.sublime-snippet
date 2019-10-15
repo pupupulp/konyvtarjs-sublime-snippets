@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.form.isValid('${1:reference}');
+]]></content>
+	<tabTrigger>kfiv</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Form Is Valid</description>
+</snippet>

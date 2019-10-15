@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Kony.form.clear('${1:reference}');
+]]></content>
+	<tabTrigger>kfc</tabTrigger>
+	<scope>source.js</scope>
+	<description>KonyvtarJS Form Clear</description>
+</snippet>
